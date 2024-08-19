@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x03_P5.08mm_Vertical,1,Pin Header,
+"J2, J3",PinHeader_1x02_P5.08mm_Vertical,2,Pin Header,
+J4,PinHeader_1x03_P5.08mm_Vertical,1,Pin Header+,
+V1,NovalSocket_Ceramic_1,1,Noval_Socket_02,

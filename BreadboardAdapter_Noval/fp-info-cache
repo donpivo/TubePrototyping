@@ -1,0 +1,232 @@
+56008848111018
+Retronics_Connectors
+CUI_SJ-3501-SMT
+
+
+0
+5
+5
+Retronics_Connectors
+EM84_NovalBase
+
+
+0
+4
+4
+Retronics_Connectors
+EM84_Socket
+
+
+0
+5
+5
+Retronics_Connectors
+FFC_0527450697
+0527450697
+Connector
+0
+8
+8
+Retronics_Connectors
+NovalSocket_Ceramic_1
+
+
+0
+10
+10
+Retronics_Connectors
+Octal_Ceramic
+
+
+0
+8
+8
+Retronics_Connectors
+PinHeader_1x02_P5.08mm_Vertical
+
+
+0
+2
+2
+Retronics_Connectors
+PinHeader_1x03_P2.54mm_Horizontal
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+Retronics_Connectors
+PinHeader_1x03_P2.54mm_Horizontal_Alt
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+Retronics_Connectors
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+Retronics_Connectors
+PinHeader_1x03_P5.08mm_Vertical
+
+
+0
+3
+3
+Retronics_Connectors
+PinHeader_1x06_P2.54mm_Vertical_Minus2
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+5
+5
+Retronics_Connectors
+PinSocket_1x03_P2.54mm_Vertical_alt
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-2P-BK
+320V 20A 2 Bend -40℃~+105℃ 1 5.08mm 1x2P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+
+0
+2
+2
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-2P-BK_Pol
+320V 20A 2 Bend -40℃~+105℃ 1 5.08mm 1x2P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+
+0
+2
+2
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-3P-BK
+320V 20A 3 Bend -40℃~+105℃ 1 5.08mm 1x3P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+Connector
+0
+3
+3
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-4P-BK
+320V 20A 4 Bend -40℃~+105℃ 1 5.08mm 1x3P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+Connector
+0
+4
+4
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-5P-BK
+320V 20A 5 Bend -40℃~+105℃ 1 5.08mm 1x5P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+Connector
+0
+5
+5
+Retronics_Connectors
+Pluggable_DB2ERC-5.08-6P-BK
+320V 20A 4 Bend -40℃~+105℃ 1 5.08mm 1x6P Black Board Edge/Receptacle-Close Push-Pull,P=5.08mm Pluggable System Terminal Block
+Connector
+0
+6
+6
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-2P-BK-S
+DIBO 1x2P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 2 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+2
+2
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-3P-BK-S
+DIBO 1x3P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 3 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+3
+3
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-4P-BK-S
+DIBO 1x4P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 4 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+4
+4
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-5P-BK-S
+DIBO 1x5P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 5 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+5
+5
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-6P-BK-S
+DIBO 1x6P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 6 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+6
+6
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-7P-BK-S
+DIBO 1x7P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 7 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+7
+7
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-8P-BK-S
+DIBO 1x8P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 8 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+8
+8
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-9P-BK-S
+DIBO 1x9P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 9 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+9
+9
+Retronics_Connectors
+ScrewTerminal_DB128L-5.08-10P-BK-S
+DIBO 1x10P 18A -40℃~+105℃ 250V Black 12~30 Straight pin 5.08mm 2.5 1 10 Plugin,P=5.08mm Screw terminal ROHS
+
+0
+10
+10
+Retronics_Connectors
+USB_C_GCT_USB4105-GF-A
+
+
+0
+16
+16
+Retronics_Connectors
+USB_C_GCT_USB4145-03-0070-C
+
+
+0
+20
+20
+Retronics_Connectors
+USB_C_GCT_USB4520-03-1-A
+
+
+0
+16
+16
+Retronics_Connectors
+USB_Micro-B_Molex-105133-0031
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+Retronics_Connectors
+USB_Micro_B_Female_10118194-0001LF
+http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf
+
+0
+9
+6
